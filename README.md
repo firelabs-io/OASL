@@ -1,2 +1,2 @@
-# OML
-OML (our minimal language)
+# OPL
+OPL (our programming language)
